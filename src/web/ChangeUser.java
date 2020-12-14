@@ -71,6 +71,7 @@ public class ChangeUser extends HttpServlet {
 		}
 		 HttpSession session = request.getSession(false);
 		 session.setAttribute("userName",userName);
+		 session.setAttribute("userCategoryId", Scategory);
 
 		 out.print("<script>alert('회원정보수정 완료되었습니다.'); location.href='../home.jsp'; </script>\r\n");
 		}
