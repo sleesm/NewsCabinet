@@ -20,7 +20,7 @@
   - Eclipse 2020-06
   - Jsp, HTML5, CSS, JAVA, JavsScript
 - 사용한 오픈 API
-  - NAVER NEWS OPEN API
+  - Naver News Open API
 
 
 ## Overview
