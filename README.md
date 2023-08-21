@@ -16,9 +16,9 @@
 
 ## Tech Stack 사용 기술
 - 개발 환경 및 사용 언어
-  - MySQL server 8.0 사용
-  - Eclipse 2020-06 사용
-  - Jsp, HTML5, CSS, JAVA 언어 사용
+  - MySQL server 8.0, Apache Tomcat
+  - Eclipse 2020-06
+  - Jsp, HTML5, CSS, JAVA, JavsScript
 - 사용한 오픈 API
   - NAVER NEWS OPEN API
 
