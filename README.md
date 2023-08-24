@@ -14,13 +14,11 @@
 ## Project Goal
 ![image](https://user-images.githubusercontent.com/60386794/116965602-2ef38200-ace9-11eb-8b4e-7caf010f9685.png)
 
-## Tech Stack 사용 기술
-- 개발 환경 및 사용 언어
-  - MySQL server 8.0, Apache Tomcat
-  - Eclipse 2020-06
-  - Jsp, HTML5, CSS, JAVA, JavsScript
-- 사용한 오픈 API
-  - Naver News Open API
+## Tech Stack
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### ✔️Back-end
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> **Naver News Open API**
 
 
 ## Overview
