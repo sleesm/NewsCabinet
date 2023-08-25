@@ -23,4 +23,4 @@
 
 ## Overview
 
-### [🎞데모영상](https://file.notion.so/f/s/3c055718-3ec7-4583-a30f-ab05bcc90dca/KakaoTalk_20210504_152506460.mp4?id=7ad15705-f464-45de-8e9b-b0f7a747a782&table=block&spaceId=f833c68d-6d0d-4322-a6fd-0beb1962db26&expirationTimestamp=1692712800000&signature=D10tDswXB05UFTRWtVUwFFQoZpFv_T5DW62ZDQR5SN4&downloadName=KakaoTalk_20210504_152506460.mp4)
+### [🎞데모영상](https://drive.google.com/file/d/1GI8UJlHWqFhnma38U3zn5Z_0wtm72R2x/view?usp=sharing)
